@@ -1,2 +1,2 @@
 # Space-OPERA: Space Object Pose-estimation with Event and RGB Analysis dataset (WIP title)
-This is the repository for dataset release around the dates of IROS 24.
+The code and data is maintained at [this repository](https://github.com/mohsij/event-pose-certification)
